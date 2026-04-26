@@ -7,6 +7,11 @@ This project was developed for **NeuroLogic '26 – Global NLP Datathon** under 
 The goal is to build a machine learning model that analyzes news article titles and content, and predicts whether the news is **True** or **False**.
 
 ---
+## 🌐 Live Demo
+👉 **Try the App Here:**  
+[https://fakelens-c8udetaaivwaqyyg2svfhhw.streamlit.app/](https://fakelens-c8udetaaiwaqyyg2svfhhw.streamlit.app/)
+
+---
 
 ## 🎯 Problem Statement
 
