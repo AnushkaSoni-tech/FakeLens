@@ -1,16 +1,13 @@
-# 🧠 Fake News Detection using NLP | NeuroLogic '26 Submission
+# 🧠 Fake News Detection using NLP
 
 ## 📌 Overview
-
-This project was developed for **NeuroLogic '26 – Global NLP Datathon** under **Challenge 2: Fake News & Misinformation Detection**.
 
 The goal is to build a machine learning model that analyzes news article titles and content, and predicts whether the news is **True** or **False**.
 
 ---
 ## 🌐 Live Demo
 👉 **Try the App Here:**  
-[https://fakelens-c8udetaaivwaqyyg2svfhhw.streamlit.app/](https://fakelens-c8udetaaiwaqyyg2svfhhw.streamlit.app/)
-
+https://fakelens-spam-detection-system.streamlit.app/
 ---
 
 ## 🎯 Problem Statement
